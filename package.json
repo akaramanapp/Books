@@ -1,0 +1,16 @@
+{
+  "name": "@akaramanapp/books",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "author": "",
+  "license": "ISC",
+  "release-it": {},
+  "devDependencies": {
+    "release-it": "15.3.0"
+  }
+}
